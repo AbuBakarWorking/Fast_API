@@ -37,12 +37,12 @@ A beginner-friendly FastAPI project that demonstrates how to build and run APIs 
 
 ## ⚙️ Installation and Setup
 
-### 1️⃣ Clone the repository
+### 1️⃣ Clone the repository 
 ```bash
 git clone https://github.com/YourUsername/FastAPI.git
 cd FastAPI
 
-## 2️⃣ Create and activate a virtual environment
+2️⃣ Create and activate a virtual environment
 python -m venv env
 env\Scripts\activate  # On Windows
 source env/bin/activate  # On macOS/Linux
